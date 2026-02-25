@@ -320,6 +320,7 @@
    🛫 Depart:  10:14 AM
    🚗 Drive:   13 min to next destination
    🔗 Pin:      http://maps.google.com/?q=32.340967,-90.212639
+   💬 Info:    Opens at 9:00am
 
 📍 Mississippi Civil Rights Museum, 222 North St #2205, Jackson, MS 39201
    🕒 Arrive:  10:27 AM
