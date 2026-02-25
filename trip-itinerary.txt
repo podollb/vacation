@@ -591,6 +591,7 @@
    🛫 Depart:  10:12 AM
    🚗 Drive:   5 min to next destination
    🔗 Pin:      http://maps.google.com/?q=32.402805,-87.017586
+   💬 Info:    By appointment only?
 
 📍 Brown Chapel AME
    🕒 Arrive:  10:17 AM
