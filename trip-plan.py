@@ -31,7 +31,6 @@ def get_daily_route_link(stops):
     base_url = "https://www.google.com/maps/dir/?api=1"
     origin = "origin=My+Location"
     destination = f"destination={stops[-1]['lat']},{stops[-1]['lng']}"
-    # Including all stops as waypoints ensures the route follows your exact sequence
     waypoints = quote("|".join([f"{s['lat']},{s['lng']}" for s in stops]))
     return f"{base_url}&{origin}&{destination}&waypoints={waypoints}&travelmode=driving"
 
@@ -58,19 +57,39 @@ def main():
         stay_td = parse_stay(row['stay'])
         arrival = current_time
         departure = arrival + stay_td
+        
         drive_time = "-"
-        drive_seconds = 0
+        drive_seconds = 0 # Default to 0 for calculations
         
         if i < len(df) - 1:
             next_row = df.iloc[i+1]
-            try:
-                res = gmaps.distance_matrix((row['lat'], row['lng']), (next_row['lat'], next_row['lng']), mode="driving")
-                element = res['rows'][0]['elements'][0]
-                if element['status'] == 'OK':
-                    drive_time = element['duration']['text'].replace("hours", "hrs").replace("mins", "min")
-                    drive_seconds = element['duration']['value']
-            except:
-                drive_time = "Error"
+            
+            # --- IMPROVED DRIVE LOGIC ---
+            # 1. Skip API call if locations are identical
+            if (row['lat'], row['lng']) == (next_row['lat'], next_row['lng']):
+                drive_time = "0 min (Same location)"
+                drive_seconds = 0
+            else:
+                try:
+                    res = gmaps.distance_matrix(
+                        (row['lat'], row['lng']), 
+                        (next_row['lat'], next_row['lng']), 
+                        mode="driving"
+                    )
+                    element = res['rows'][0]['elements'][0]
+                    status = element.get('status')
+
+                    if status == 'OK':
+                        drive_time = element['duration']['text'].replace("hours", "hrs").replace("mins", "min")
+                        drive_seconds = element['duration']['value']
+                    else:
+                        # Fallback for ZERO_RESULTS or other map errors
+                        drive_time = f"0 min ({status})"
+                        drive_seconds = 0
+                except Exception as e:
+                    # Generic API/Network error fallback
+                    drive_time = "0 min (API Error)"
+                    drive_seconds = 0
 
         itinerary.append({
             "name": row['name'], "lat": row['lat'], "lng": row['lng'],
@@ -78,9 +97,11 @@ def main():
             "drive_to_next": drive_time, "comments": str(row['comments']),
             "pin": get_pin_link(row['lat'], row['lng'])
         })
+        
+        # Current time for the NEXT stop is departure + the drive time (which is now safely 0 on error)
         current_time = departure + timedelta(seconds=drive_seconds)
 
-    # Group by Day for both outputs
+    # Group by Day
     days = {}
     for s in itinerary:
         d = s['arrival'].strftime("%A, %B %d")
@@ -95,7 +116,7 @@ def main():
             for s in stops:
                 f.write(f"📍 {s['name']}\n   🕒 Arrive:  {s['arrival'].strftime('%-I:%M %p')}\n   ⌛ Stay:    {s['stay_str']}\n   🛫 Depart:  {s['departure'].strftime('%-I:%M %p')}\n")
                 if s['drive_to_next'] != "-": f.write(f"   🚗 Drive:   {s['drive_to_next']} to next destination\n")
-                f.write(f"   🔗 Pin:     {s['pin']}\n")
+                f.write(f"   🔗 Pin:      {s['pin']}\n")
                 if s['comments'].lower() != "no comments": f.write(f"   💬 Info:    {s['comments']}\n")
                 f.write("\n")
 
@@ -126,12 +147,11 @@ def main():
                     f.write(f"🚗 <b>Drive:</b> {s['drive_to_next']} to next destination<br>")
                 f.write(f"<a class='pin-link' href='{s['pin']}'>🔗 View Map Pin</a>")
                 
-                # --- THE MISSING COMMENT LOGIC ---
                 if s['comments'].lower() != "no comments":
                     f.write(f"<div class='comment-box'>💬 <b>Info:</b> {s['comments']}</div>")
                 
-                f.write("</div></div>") # close details and stop
-            f.write("</div>") # close day-box
+                f.write("</div></div>")
+            f.write("</div>")
         f.write("</body></html>")
 
     print(f"✅ Success! Generated:\n   - {TXT_OUTPUT}\n   - {HTML_OUTPUT}")
