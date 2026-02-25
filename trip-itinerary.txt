@@ -686,18 +686,56 @@
    🕒 Arrive:  7:13 PM
    ⌛ Stay:    10 hour(s) 0 minutes
    🛫 Depart:  5:13 AM
-   🚗 Drive:   3 hrs 3 min to next destination
+   🚗 Drive:   1 hour 28 min to next destination
    🔗 Pin:      http://maps.google.com/?q=33.35190052,-86.84781544
 
 ----------------------------------------
 >>> MONDAY, MARCH 09 <<<
 ----------------------------------------
 
-🗺️ FULL DAY ROUTE MAP: https://www.google.com/maps/dir/36.13425603,-86.67280574
+🗺️ FULL DAY ROUTE MAP: https://www.google.com/maps/dir/34.4439620216616,-87.17814968559442/34.437840331329355,-87.1662135874456/34.65309911447671,-86.67157813892146/34.4167942384503,-85.60164594511802/34.97886208924806,-85.80980575859186/36.13425603,-86.67280574
+
+📍 Oakville Indian Mounds Education Center
+   🕒 Arrive:  6:42 AM
+   ⌛ Stay:    2 hour(s) 0 minutes
+   🛫 Depart:  8:42 AM
+   🚗 Drive:   5 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=34.4439620216616,-87.17814968559442
+   💬 Info:    Open 8:00am to 4:00pm
+
+📍 Jesse Owens Museum
+   🕒 Arrive:  8:46 AM
+   ⌛ Stay:    3 hour(s) 0 minutes
+   🛫 Depart:  11:46 AM
+   🚗 Drive:   53 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=34.437840331329355,-87.1662135874456
+   💬 Info:    Open 10:00am to 4:00pm
+
+📍 Redstone Arsenal (Rocket Park)
+   🕒 Arrive:  12:40 PM
+   ⌛ Stay:    1 hour(s) 0 minutes
+   🛫 Depart:  1:40 PM
+   🚗 Drive:   1 hour 47 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=34.65309911447671,-86.67157813892146
+
+📍 Little River Canyon Nation Preserve
+   🕒 Arrive:  3:27 PM
+   ⌛ Stay:    1 hour(s) 0 minutes
+   🛫 Depart:  4:27 PM
+   🚗 Drive:   1 hour 17 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=34.4167942384503,-85.60164594511802
+
+📍 Russell Cave National Monument
+   🕒 Arrive:  5:44 PM
+   ⌛ Stay:    1 hour(s) 0 minutes
+   🛫 Depart:  6:44 PM
+   🚗 Drive:   1 hour 51 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=34.97886208924806,-85.80980575859186
 
 📍 Nashville International Airport - BNA
-   🕒 Arrive:  8:16 AM
+   🕒 Arrive:  8:35 PM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  9:16 AM
+   🛫 Depart:  9:35 PM
    🔗 Pin:      http://maps.google.com/?q=36.13425603,-86.67280574
+   💬 Info:    ARRIVE BY 5:45pm AT THE LATEST! Flight is at 7:48pm
 
