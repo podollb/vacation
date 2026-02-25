@@ -566,8 +566,8 @@
 
 📍 HOTEL - Hampton Inn & Suites Montgomery-EastChase
    🕒 Arrive:  7:41 PM
-   ⌛ Stay:    10 hour(s) 0 minutes
-   🛫 Depart:  5:41 AM
+   ⌛ Stay:    11 hour(s) 30 minutes
+   🛫 Depart:  7:11 AM
    🚗 Drive:   1 hour 1 min to next destination
    🔗 Pin:      http://maps.google.com/?q=32.3626357,-86.15888249
 
@@ -578,82 +578,83 @@
 🗺️ FULL DAY ROUTE MAP: https://www.google.com/maps/dir/32.407124,-87.019413/32.402805,-87.017586/32.412773,-87.01662/32.405556,-87.018611/32.270433,-86.727729/32.365209,-86.291256/32.37671,-86.311408/32.372991,-86.29608/32.374637,-86.309115/32.376104,-86.303252/32.3626357,-86.15881811
 
 📍 Temporary Location - Selma Welcome Center
-   🕒 Arrive:  6:41 AM
+   🕒 Arrive:  8:11 AM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  7:41 AM
+   🛫 Depart:  9:11 AM
    🚗 Drive:   1 min to next destination
    🔗 Pin:      http://maps.google.com/?q=32.407124,-87.019413
+   💬 Info:    Open from 9:00am to 4:30pm
 
 📍 National Voting Rights Museum
-   🕒 Arrive:  7:42 AM
+   🕒 Arrive:  9:12 AM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  8:42 AM
+   🛫 Depart:  10:12 AM
    🚗 Drive:   5 min to next destination
    🔗 Pin:      http://maps.google.com/?q=32.402805,-87.017586
 
 📍 Brown Chapel AME
-   🕒 Arrive:  8:47 AM
+   🕒 Arrive:  10:17 AM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  9:47 AM
+   🛫 Depart:  11:17 AM
    🚗 Drive:   3 min to next destination
    🔗 Pin:      http://maps.google.com/?q=32.412773,-87.01662
 
 📍 Edmund Pettus Bridge
-   🕒 Arrive:  9:50 AM
+   🕒 Arrive:  11:20 AM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  10:50 AM
+   🛫 Depart:  12:20 PM
    🚗 Drive:   22 min to next destination
    🔗 Pin:      http://maps.google.com/?q=32.405556,-87.018611
 
 📍 Lowndes Interpretive Center
-   🕒 Arrive:  11:12 AM
+   🕒 Arrive:  12:42 PM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  12:12 PM
+   🛫 Depart:  1:42 PM
    🚗 Drive:   35 min to next destination
    🔗 Pin:      http://maps.google.com/?q=32.270433,-86.727729
 
 📍 Montgomery Interpretive Center
-   🕒 Arrive:  12:47 PM
+   🕒 Arrive:  2:17 PM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  1:47 PM
+   🛫 Depart:  3:17 PM
    🚗 Drive:   6 min to next destination
    🔗 Pin:      http://maps.google.com/?q=32.365209,-86.291256
 
 📍 Rosa Parks Museum, 252 Montgomery St, Montgomery, AL 36104
-   🕒 Arrive:  1:54 PM
+   🕒 Arrive:  3:24 PM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  2:54 PM
+   🛫 Depart:  4:24 PM
    🚗 Drive:   5 min to next destination
    🔗 Pin:      http://maps.google.com/?q=32.37671,-86.311408
    💬 Info:    IF WE DID NOT DO IT YESTERDAY - Open 9:00am to 4:00pm (stay until 5pm)
 
 📍 Dexter Parsonage Museum, 309 S Jackson St, Montgomery, AL 36104
-   🕒 Arrive:  2:59 PM
+   🕒 Arrive:  4:29 PM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  3:59 PM
+   🛫 Depart:  5:29 PM
    🚗 Drive:   4 min to next destination
    🔗 Pin:      http://maps.google.com/?q=32.372991,-86.29608
    💬 Info:    IF WE DID NOT DO IT YESTERDAY - Open 10:00am to 4:00pm
 
 📍 Freedom Rides Museum, 210 S Court St, Montgomery, AL 36104
-   🕒 Arrive:  4:03 PM
+   🕒 Arrive:  5:33 PM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  5:03 PM
+   🛫 Depart:  6:33 PM
    🚗 Drive:   4 min to next destination
    🔗 Pin:      http://maps.google.com/?q=32.374637,-86.309115
    💬 Info:    IF WE DID NOT DO IT YESTERDAY - Open 11:00am to 4:00pm
 
 📍 Civil Rights Memorial Center, 400 Washington Ave, Montgomery, AL 36104
-   🕒 Arrive:  5:07 PM
+   🕒 Arrive:  6:37 PM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  6:07 PM
+   🛫 Depart:  7:37 PM
    🚗 Drive:   15 min to next destination
    🔗 Pin:      http://maps.google.com/?q=32.376104,-86.303252
 
 📍 HOTEL - Hampton Inn & Suites Montgomery-EastChase
-   🕒 Arrive:  6:22 PM
+   🕒 Arrive:  7:52 PM
    ⌛ Stay:    10 hour(s) 0 minutes
-   🛫 Depart:  4:22 AM
+   🛫 Depart:  5:52 AM
    🚗 Drive:   17 min to next destination
    🔗 Pin:      http://maps.google.com/?q=32.3626357,-86.15881811
 
@@ -664,29 +665,29 @@
 🗺️ FULL DAY ROUTE MAP: https://www.google.com/maps/dir/32.38219,-86.30874/32.372171,-86.313423/33.35190052,-86.84781544/36.13425603,-86.67280574
 
 📍 The Legacy Museum, 400 N Court St, Montgomery, AL 36104
-   🕒 Arrive:  4:39 AM
+   🕒 Arrive:  6:09 AM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  5:39 AM
+   🛫 Depart:  7:09 AM
    🚗 Drive:   4 min to next destination
    🔗 Pin:      http://maps.google.com/?q=32.38219,-86.30874
 
 📍 The National Memorial for Peace and Justice
-   🕒 Arrive:  5:43 AM
+   🕒 Arrive:  7:13 AM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  6:43 AM
+   🛫 Depart:  8:13 AM
    🚗 Drive:   1 hour 18 min to next destination
    🔗 Pin:      http://maps.google.com/?q=32.372171,-86.313423
 
 📍 HOTEL - Homewood Suites Hoover Birmingham
-   🕒 Arrive:  8:00 AM
+   🕒 Arrive:  9:30 AM
    ⌛ Stay:    10 hour(s) 0 minutes
-   🛫 Depart:  6:00 PM
+   🛫 Depart:  7:30 PM
    🚗 Drive:   3 hrs 3 min to next destination
    🔗 Pin:      http://maps.google.com/?q=33.35190052,-86.84781544
 
 📍 Nashville International Airport - BNA
-   🕒 Arrive:  9:03 PM
+   🕒 Arrive:  10:33 PM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  10:03 PM
+   🛫 Depart:  11:33 PM
    🔗 Pin:      http://maps.google.com/?q=36.13425603,-86.67280574
 
