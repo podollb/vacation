@@ -522,6 +522,7 @@
    🛫 Depart:  3:54 PM
    🚗 Drive:   3 min to next destination
    🔗 Pin:      http://maps.google.com/?q=32.374637,-86.309115
+   💬 Info:    Open 11:00am to 4:00pm
 
 📍 Rosa Parks Museum, 252 Montgomery St, Montgomery, AL 36104
    🕒 Arrive:  3:57 PM
@@ -529,6 +530,7 @@
    🛫 Depart:  4:57 PM
    🚗 Drive:   16 min to next destination
    🔗 Pin:      http://maps.google.com/?q=32.37671,-86.311408
+   💬 Info:    Open 9:00am to 4:00pm
 
 📍 HOTEL - Hampton Inn & Suites Montgomery-EastChase
    🕒 Arrive:  5:13 PM
