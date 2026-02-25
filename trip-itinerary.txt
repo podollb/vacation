@@ -656,7 +656,7 @@
 >>> SUNDAY, MARCH 08 <<<
 ----------------------------------------
 
-🗺️ FULL DAY ROUTE MAP: https://www.google.com/maps/dir/32.38219,-86.30874/32.372171,-86.313423/32.38946914733964,-86.3135735028545/nan,nan/33.35190052,-86.84781544/36.13425603,-86.67280574
+🗺️ FULL DAY ROUTE MAP: https://www.google.com/maps/dir/32.38219,-86.30874/32.372171,-86.313423/32.38946914733964,-86.3135735028545/33.35190052,-86.84781544/36.13425603,-86.67280574
 
 📍 The Legacy Museum, 400 N Court St, Montgomery, AL 36104
    🕒 Arrive:  3:46 AM
@@ -678,28 +678,20 @@
    🕒 Arrive:  5:58 AM
    ⌛ Stay:    1 hour(s) 0 minutes
    🛫 Depart:  6:58 AM
-   🚗 Drive:   0 min (ZERO_RESULTS) to next destination
+   🚗 Drive:   1 hour 16 min to next destination
    🔗 Pin:      http://maps.google.com/?q=32.38946914733964,-86.3135735028545
    💬 Info:    Open 9:00am to 5:00pm
 
-📍 nan
-   🕒 Arrive:  6:58 AM
-   ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  7:58 AM
-   🚗 Drive:   0 min (ZERO_RESULTS) to next destination
-   🔗 Pin:      http://maps.google.com/?q=nan,nan
-   💬 Info:    nan
-
 📍 HOTEL - Homewood Suites Hoover Birmingham
-   🕒 Arrive:  7:58 AM
+   🕒 Arrive:  8:13 AM
    ⌛ Stay:    10 hour(s) 0 minutes
-   🛫 Depart:  5:58 PM
+   🛫 Depart:  6:13 PM
    🚗 Drive:   3 hrs 3 min to next destination
    🔗 Pin:      http://maps.google.com/?q=33.35190052,-86.84781544
 
 📍 Nashville International Airport - BNA
-   🕒 Arrive:  9:00 PM
+   🕒 Arrive:  9:16 PM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  10:00 PM
+   🛫 Depart:  10:16 PM
    🔗 Pin:      http://maps.google.com/?q=36.13425603,-86.67280574
 
