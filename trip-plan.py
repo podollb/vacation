@@ -59,35 +59,25 @@ def main():
         departure = arrival + stay_td
         
         drive_time = "-"
-        drive_seconds = 0 # Default to 0 for calculations
+        drive_seconds = 0 
         
         if i < len(df) - 1:
             next_row = df.iloc[i+1]
-            
-            # --- IMPROVED DRIVE LOGIC ---
-            # 1. Skip API call if locations are identical
             if (row['lat'], row['lng']) == (next_row['lat'], next_row['lng']):
                 drive_time = "0 min (Same location)"
                 drive_seconds = 0
             else:
                 try:
-                    res = gmaps.distance_matrix(
-                        (row['lat'], row['lng']), 
-                        (next_row['lat'], next_row['lng']), 
-                        mode="driving"
-                    )
+                    res = gmaps.distance_matrix((row['lat'], row['lng']), (next_row['lat'], next_row['lng']), mode="driving")
                     element = res['rows'][0]['elements'][0]
                     status = element.get('status')
-
                     if status == 'OK':
                         drive_time = element['duration']['text'].replace("hours", "hrs").replace("mins", "min")
                         drive_seconds = element['duration']['value']
                     else:
-                        # Fallback for ZERO_RESULTS or other map errors
                         drive_time = f"0 min ({status})"
                         drive_seconds = 0
-                except Exception as e:
-                    # Generic API/Network error fallback
+                except:
                     drive_time = "0 min (API Error)"
                     drive_seconds = 0
 
@@ -97,11 +87,8 @@ def main():
             "drive_to_next": drive_time, "comments": str(row['comments']),
             "pin": get_pin_link(row['lat'], row['lng'])
         })
-        
-        # Current time for the NEXT stop is departure + the drive time (which is now safely 0 on error)
         current_time = departure + timedelta(seconds=drive_seconds)
 
-    # Group by Day
     days = {}
     for s in itinerary:
         d = s['arrival'].strftime("%A, %B %d")
@@ -131,7 +118,7 @@ def main():
         f.write(".stop-name{font-weight:bold; font-size:1.1em; color:#e74c3c; margin-bottom: 5px;}")
         f.write(".details{font-size: 0.95em; color: #555;}")
         f.write(".pin-link{display: inline-block; margin-top: 8px; color:#3498db; text-decoration:none; font-weight: bold;}")
-        f.write(".comment-box{margin-top: 8px; padding: 8px; background: #fff9c4; border-radius: 4px; font-size: 0.9em; color: #444; border-left: 3px solid #fbc02d;}")
+        f.write(".comment-box{margin-top: 5px; margin-bottom: 10px; padding: 8px; background: #fff9c4; border-radius: 4px; font-size: 0.9em; color: #444; border-left: 3px solid #fbc02d;}")
         f.write("</style></head><body><h1 style='text-align:center;'>Trip Itinerary</h1>")
         
         for d, stops in days.items():
@@ -139,6 +126,11 @@ def main():
             f.write(f"<a class='map-btn' href='{get_daily_route_link(stops)}'>View Map For Entire Day's Route!</a>")
             for s in stops:
                 f.write(f"<div class='stop'><div class='stop-name'>📍 {s['name']}</div>")
+                
+                # --- COMMENT BOX MOVED HERE ---
+                if s['comments'].lower() != "no comments" and s['comments'].strip() != "":
+                    f.write(f"<div class='comment-box'>💬 <b>Info:</b> {s['comments']}</div>")
+                
                 f.write("<div class='details'>")
                 f.write(f"🕒 <b>Arrive:</b> {s['arrival'].strftime('%-I:%M %p')}<br>")
                 f.write(f"⌛ <b>Stay:</b> {s['stay_str']}<br>")
@@ -146,10 +138,6 @@ def main():
                 if s['drive_to_next'] != "-": 
                     f.write(f"🚗 <b>Drive:</b> {s['drive_to_next']} to next destination<br>")
                 f.write(f"<a class='pin-link' href='{s['pin']}'>🔗 View Map Pin</a>")
-                
-                if s['comments'].lower() != "no comments":
-                    f.write(f"<div class='comment-box'>💬 <b>Info:</b> {s['comments']}</div>")
-                
                 f.write("</div></div>")
             f.write("</div>")
         f.write("</body></html>")
