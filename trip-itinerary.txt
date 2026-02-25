@@ -328,6 +328,7 @@
    🛫 Depart:  11:27 AM
    🚗 Drive:   4 min to next destination
    🔗 Pin:      http://maps.google.com/?q=32.301479,-90.178051
+   💬 Info:    Open from 9:00am to 5:00pm
 
 📍 Old Greyhound Station
    🕒 Arrive:  11:31 AM
