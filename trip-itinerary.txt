@@ -304,7 +304,7 @@
 >>> TUESDAY, MARCH 03 <<<
 ----------------------------------------
 
-🗺️ FULL DAY ROUTE MAP: https://www.google.com/maps/dir/32.30388878,-90.18222229/32.340967,-90.212639/32.301479,-90.178051/32.3018,-90.185605/32.618635,-90.046866/31.32820877,-89.35324207/30.682037,-88.016879
+🗺️ FULL DAY ROUTE MAP: https://www.google.com/maps/dir/32.30388878,-90.18222229/32.340967,-90.212639/32.301479,-90.178051/32.3018,-90.185605/32.618635,-90.046866/31.32820877,-89.35324207
 
 📍 Mississippi State Capitol
    🕒 Arrive:  8:03 AM
@@ -347,263 +347,275 @@
 
 📍 HOTEL - Hampton Inn by Hilton Hattiesburg
    🕒 Arrive:  8:13 PM
-   ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  9:13 PM
+   ⌛ Stay:    10 hour(s) 0 minutes
+   🛫 Depart:  6:13 AM
    🚗 Drive:   1 hour 44 min to next destination
    🔗 Pin:      http://maps.google.com/?q=31.32820877,-89.35324207
-
-📍 USS ALABAMA Battleship Memorial Park, 2703 Battleship Pkwy, Mobile, AL 36602
-   🕒 Arrive:  10:56 PM
-   ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  11:56 PM
-   🚗 Drive:   11 min to next destination
-   🔗 Pin:      http://maps.google.com/?q=30.682037,-88.016879
 
 ----------------------------------------
 >>> WEDNESDAY, MARCH 04 <<<
 ----------------------------------------
 
-🗺️ FULL DAY ROUTE MAP: https://www.google.com/maps/dir/30.62942,-88.088108/30.69626,-88.10003/30.73804,-88.05841/31.4425901,-87.3545999/33.10611,-86.864223/33.35185571,-86.8478369/33.515789,-86.814966/33.515339,-86.814887/33.516702,-86.814948/33.520907,-86.790562/33.650903,-85.869487/33.658085,-85.831081/32.6123578,-85.40058359/32.604078,-85.483801/32.428915,-85.708349
+🗺️ FULL DAY ROUTE MAP: https://www.google.com/maps/dir/30.682037,-88.016879/30.62942,-88.088108/30.69626,-88.10003/30.73804,-88.05841/31.4425901,-87.3545999/33.10611,-86.864223/33.35185571,-86.8478369
+
+📍 USS ALABAMA Battleship Memorial Park, 2703 Battleship Pkwy, Mobile, AL 36602
+   🕒 Arrive:  7:56 AM
+   ⌛ Stay:    1 hour(s) 0 minutes
+   🛫 Depart:  8:56 AM
+   🚗 Drive:   11 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=30.682037,-88.016879
 
 📍 Pine Crest Funeral Home, 1939 Dauphin Island Pkwy, Mobile, AL 36605
-   🕒 Arrive:  12:08 AM
+   🕒 Arrive:  9:08 AM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  1:08 AM
+   🛫 Depart:  10:08 AM
    🚗 Drive:   15 min to next destination
    🔗 Pin:      http://maps.google.com/?q=30.62942,-88.088108
 
 📍 2564 Spring Hill Avenue, Mobile, Alabama, United States
-   🕒 Arrive:  1:22 AM
+   🕒 Arrive:  10:22 AM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  2:22 AM
+   🛫 Depart:  11:22 AM
    🚗 Drive:   16 min to next destination
    🔗 Pin:      http://maps.google.com/?q=30.69626,-88.10003
 
 📍 Africatown Heritage House
-   🕒 Arrive:  2:38 AM
+   🕒 Arrive:  11:38 AM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  3:38 AM
+   🛫 Depart:  12:38 PM
    🚗 Drive:   1 hour 22 min to next destination
    🔗 Pin:      http://maps.google.com/?q=30.73804,-88.05841
 
 📍 Old Monroe County Courthouse and Heritage Museum
-   🕒 Arrive:  5:00 AM
+   🕒 Arrive:  2:00 PM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  6:00 AM
+   🛫 Depart:  3:00 PM
    🚗 Drive:   2 hrs 35 min to next destination
    🔗 Pin:      http://maps.google.com/?q=31.4425901,-87.3545999
 
 📍 University of Montevallo
-   🕒 Arrive:  8:34 AM
+   🕒 Arrive:  5:34 PM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  9:34 AM
+   🛫 Depart:  6:34 PM
    🚗 Drive:   38 min to next destination
    🔗 Pin:      http://maps.google.com/?q=33.10611,-86.864223
 
 📍 HOTEL - Homewood Suites Hoover Birmingham
-   🕒 Arrive:  10:12 AM
-   ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  11:12 AM
+   🕒 Arrive:  7:12 PM
+   ⌛ Stay:    10 hour(s) 0 minutes
+   🛫 Depart:  5:12 AM
    🚗 Drive:   19 min to next destination
    🔗 Pin:      http://maps.google.com/?q=33.35185571,-86.8478369
-
-📍 Birmingham Civil Rights Institute, 520 16th St N, Birmingham, AL 35203
-   🕒 Arrive:  11:32 AM
-   ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  12:32 PM
-   🚗 Drive:   1 min to next destination
-   🔗 Pin:      http://maps.google.com/?q=33.515789,-86.814966
-
-📍 Birmingham Civil Rights National Monument, 1510 5th Ave N, Birmingham, AL 35203
-   🕒 Arrive:  12:32 PM
-   ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  1:32 PM
-   🚗 Drive:   2 min to next destination
-   🔗 Pin:      http://maps.google.com/?q=33.515339,-86.814887
-
-📍 16th Street Baptist Church, 1530 6th Ave N, Birmingham, AL 35203
-   🕒 Arrive:  1:34 PM
-   ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  2:34 PM
-   🚗 Drive:   10 min to next destination
-   🔗 Pin:      http://maps.google.com/?q=33.516702,-86.814948
-
-📍 Sloss Furnaces National Historic Landmark
-   🕒 Arrive:  2:43 PM
-   ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  3:43 PM
-   🚗 Drive:   1 hour 1 min to next destination
-   🔗 Pin:      http://maps.google.com/?q=33.520907,-86.790562
-
-📍 Old Birmingham Hwy & AL-202, West End-Cobb Town, AL 36201
-   🕒 Arrive:  4:44 PM
-   ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  5:44 PM
-   🚗 Drive:   6 min to next destination
-   🔗 Pin:      http://maps.google.com/?q=33.650903,-85.869487
-
-📍 Freedom Riders National Monument, 1031 Gurnee Ave, Anniston, AL 36201
-   🕒 Arrive:  5:50 PM
-   ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  6:50 PM
-   🚗 Drive:   1 hour 54 min to next destination
-   🔗 Pin:      http://maps.google.com/?q=33.658085,-85.831081
-
-📍 HOTEL - Home2 Suites by Hilton Opelika Auburn
-   🕒 Arrive:  8:44 PM
-   ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  9:44 PM
-   🚗 Drive:   16 min to next destination
-   🔗 Pin:      http://maps.google.com/?q=32.6123578,-85.40058359
-
-📍 Auburn University Veterans Resource Center, 282 W Thach Ave, Auburn, AL 36849
-   🕒 Arrive:  10:01 PM
-   ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  11:01 PM
-   🚗 Drive:   29 min to next destination
-   🔗 Pin:      http://maps.google.com/?q=32.604078,-85.483801
-
-📍 Tuskegee Institute National Historic Site, 1212 W Montgomery Rd, Tuskegee, AL 36088
-   🕒 Arrive:  11:30 PM
-   ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  12:30 AM
-   🚗 Drive:   9 min to next destination
-   🔗 Pin:      http://maps.google.com/?q=32.428915,-85.708349
 
 ----------------------------------------
 >>> THURSDAY, MARCH 05 <<<
 ----------------------------------------
 
-🗺️ FULL DAY ROUTE MAP: https://www.google.com/maps/dir/32.457222,-85.680134/32.377773,-86.300282/32.372991,-86.29608/32.374637,-86.309115/32.37671,-86.311408/32.3626357,-86.15888249/32.407124,-87.019413/32.402805,-87.017586/32.412773,-87.01662/32.405556,-87.018611/32.270433,-86.727729/32.365209,-86.291256/32.376104,-86.303252/32.3626357,-86.15881811/32.38219,-86.30874/32.372171,-86.313423/33.35190052,-86.84781544
+🗺️ FULL DAY ROUTE MAP: https://www.google.com/maps/dir/33.515789,-86.814966/33.515339,-86.814887/33.516702,-86.814948/33.520907,-86.790562/33.650903,-85.869487/33.658085,-85.831081/32.6123578,-85.40058359
 
-📍 Tuskegee Airmen National Historic Site, 1616 Chappie James Ave, Tuskegee, AL 36083
-   🕒 Arrive:  12:39 AM
+📍 Birmingham Civil Rights Institute, 520 16th St N, Birmingham, AL 35203
+   🕒 Arrive:  5:32 AM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  1:39 AM
-   🚗 Drive:   37 min to next destination
-   🔗 Pin:      http://maps.google.com/?q=32.457222,-85.680134
-
-📍 Alabama State Capitol, 600 Dexter Ave, Montgomery, AL 36104
-   🕒 Arrive:  2:16 AM
-   ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  3:16 AM
-   🚗 Drive:   3 min to next destination
-   🔗 Pin:      http://maps.google.com/?q=32.377773,-86.300282
-
-📍 Dexter Parsonage Museum, 309 S Jackson St, Montgomery, AL 36104
-   🕒 Arrive:  3:20 AM
-   ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  4:20 AM
-   🚗 Drive:   4 min to next destination
-   🔗 Pin:      http://maps.google.com/?q=32.372991,-86.29608
-
-📍 Freedom Rides Museum, 210 S Court St, Montgomery, AL 36104
-   🕒 Arrive:  4:24 AM
-   ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  5:24 AM
-   🚗 Drive:   3 min to next destination
-   🔗 Pin:      http://maps.google.com/?q=32.374637,-86.309115
-
-📍 Rosa Parks Museum, 252 Montgomery St, Montgomery, AL 36104
-   🕒 Arrive:  5:27 AM
-   ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  6:27 AM
-   🚗 Drive:   16 min to next destination
-   🔗 Pin:      http://maps.google.com/?q=32.37671,-86.311408
-
-📍 HOTEL - Hampton Inn & Suites Montgomery-EastChase
-   🕒 Arrive:  6:44 AM
-   ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  7:44 AM
-   🚗 Drive:   1 hour 1 min to next destination
-   🔗 Pin:      http://maps.google.com/?q=32.3626357,-86.15888249
-
-📍 Temporary Location - Selma Welcome Center
-   🕒 Arrive:  8:44 AM
-   ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  9:44 AM
+   🛫 Depart:  6:32 AM
    🚗 Drive:   1 min to next destination
-   🔗 Pin:      http://maps.google.com/?q=32.407124,-87.019413
+   🔗 Pin:      http://maps.google.com/?q=33.515789,-86.814966
 
-📍 National Voting Rights Museum
-   🕒 Arrive:  9:45 AM
+📍 Birmingham Civil Rights National Monument, 1510 5th Ave N, Birmingham, AL 35203
+   🕒 Arrive:  6:32 AM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  10:45 AM
-   🚗 Drive:   5 min to next destination
-   🔗 Pin:      http://maps.google.com/?q=32.402805,-87.017586
+   🛫 Depart:  7:32 AM
+   🚗 Drive:   2 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=33.515339,-86.814887
 
-📍 Brown Chapel AME
-   🕒 Arrive:  10:50 AM
+📍 16th Street Baptist Church, 1530 6th Ave N, Birmingham, AL 35203
+   🕒 Arrive:  7:34 AM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  11:50 AM
-   🚗 Drive:   3 min to next destination
-   🔗 Pin:      http://maps.google.com/?q=32.412773,-87.01662
+   🛫 Depart:  8:34 AM
+   🚗 Drive:   10 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=33.516702,-86.814948
 
-📍 Edmund Pettus Bridge
-   🕒 Arrive:  11:53 AM
+📍 Sloss Furnaces National Historic Landmark
+   🕒 Arrive:  8:43 AM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  12:53 PM
-   🚗 Drive:   22 min to next destination
-   🔗 Pin:      http://maps.google.com/?q=32.405556,-87.018611
+   🛫 Depart:  9:43 AM
+   🚗 Drive:   1 hour 1 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=33.520907,-86.790562
 
-📍 Lowndes Interpretive Center
-   🕒 Arrive:  1:15 PM
+📍 Old Birmingham Hwy & AL-202, West End-Cobb Town, AL 36201
+   🕒 Arrive:  10:44 AM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  2:15 PM
-   🚗 Drive:   35 min to next destination
-   🔗 Pin:      http://maps.google.com/?q=32.270433,-86.727729
+   🛫 Depart:  11:44 AM
+   🚗 Drive:   6 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=33.650903,-85.869487
 
-📍 Montgomery Interpretive Center
-   🕒 Arrive:  2:51 PM
+📍 Freedom Riders National Monument, 1031 Gurnee Ave, Anniston, AL 36201
+   🕒 Arrive:  11:50 AM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  3:51 PM
-   🚗 Drive:   5 min to next destination
-   🔗 Pin:      http://maps.google.com/?q=32.365209,-86.291256
+   🛫 Depart:  12:50 PM
+   🚗 Drive:   1 hour 54 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=33.658085,-85.831081
 
-📍 Civil Rights Memorial Center, 400 Washington Ave, Montgomery, AL 36104
-   🕒 Arrive:  3:55 PM
-   ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  4:55 PM
-   🚗 Drive:   15 min to next destination
-   🔗 Pin:      http://maps.google.com/?q=32.376104,-86.303252
-
-📍 HOTEL - Hampton Inn & Suites Montgomery-EastChase
-   🕒 Arrive:  5:10 PM
-   ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  6:10 PM
-   🚗 Drive:   17 min to next destination
-   🔗 Pin:      http://maps.google.com/?q=32.3626357,-86.15881811
-
-📍 The Legacy Museum, 400 N Court St, Montgomery, AL 36104
-   🕒 Arrive:  6:27 PM
-   ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  7:27 PM
-   🚗 Drive:   4 min to next destination
-   🔗 Pin:      http://maps.google.com/?q=32.38219,-86.30874
-
-📍 The National Memorial for Peace and Justice
-   🕒 Arrive:  7:31 PM
-   ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  8:31 PM
-   🚗 Drive:   1 hour 18 min to next destination
-   🔗 Pin:      http://maps.google.com/?q=32.372171,-86.313423
-
-📍 HOTEL - Homewood Suites Hoover Birmingham
-   🕒 Arrive:  9:48 PM
-   ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  10:48 PM
-   🚗 Drive:   3 hrs 3 min to next destination
-   🔗 Pin:      http://maps.google.com/?q=33.35190052,-86.84781544
+📍 HOTEL - Home2 Suites by Hilton Opelika Auburn
+   🕒 Arrive:  2:44 PM
+   ⌛ Stay:    10 hour(s) 0 minutes
+   🛫 Depart:  12:44 AM
+   🚗 Drive:   16 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=32.6123578,-85.40058359
 
 ----------------------------------------
 >>> FRIDAY, MARCH 06 <<<
 ----------------------------------------
 
+🗺️ FULL DAY ROUTE MAP: https://www.google.com/maps/dir/32.604078,-85.483801/32.428915,-85.708349/32.457222,-85.680134/32.377773,-86.300282/32.372991,-86.29608/32.374637,-86.309115/32.37671,-86.311408/32.3626357,-86.15888249/32.407124,-87.019413/32.402805,-87.017586/32.412773,-87.01662/32.405556,-87.018611
+
+📍 Auburn University Veterans Resource Center, 282 W Thach Ave, Auburn, AL 36849
+   🕒 Arrive:  1:01 AM
+   ⌛ Stay:    1 hour(s) 0 minutes
+   🛫 Depart:  2:01 AM
+   🚗 Drive:   29 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=32.604078,-85.483801
+
+📍 Tuskegee Institute National Historic Site, 1212 W Montgomery Rd, Tuskegee, AL 36088
+   🕒 Arrive:  2:30 AM
+   ⌛ Stay:    1 hour(s) 0 minutes
+   🛫 Depart:  3:30 AM
+   🚗 Drive:   9 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=32.428915,-85.708349
+
+📍 Tuskegee Airmen National Historic Site, 1616 Chappie James Ave, Tuskegee, AL 36083
+   🕒 Arrive:  3:39 AM
+   ⌛ Stay:    1 hour(s) 0 minutes
+   🛫 Depart:  4:39 AM
+   🚗 Drive:   37 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=32.457222,-85.680134
+
+📍 Alabama State Capitol, 600 Dexter Ave, Montgomery, AL 36104
+   🕒 Arrive:  5:16 AM
+   ⌛ Stay:    1 hour(s) 0 minutes
+   🛫 Depart:  6:16 AM
+   🚗 Drive:   3 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=32.377773,-86.300282
+
+📍 Dexter Parsonage Museum, 309 S Jackson St, Montgomery, AL 36104
+   🕒 Arrive:  6:20 AM
+   ⌛ Stay:    1 hour(s) 0 minutes
+   🛫 Depart:  7:20 AM
+   🚗 Drive:   4 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=32.372991,-86.29608
+
+📍 Freedom Rides Museum, 210 S Court St, Montgomery, AL 36104
+   🕒 Arrive:  7:24 AM
+   ⌛ Stay:    1 hour(s) 0 minutes
+   🛫 Depart:  8:24 AM
+   🚗 Drive:   3 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=32.374637,-86.309115
+
+📍 Rosa Parks Museum, 252 Montgomery St, Montgomery, AL 36104
+   🕒 Arrive:  8:27 AM
+   ⌛ Stay:    1 hour(s) 0 minutes
+   🛫 Depart:  9:27 AM
+   🚗 Drive:   16 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=32.37671,-86.311408
+
+📍 HOTEL - Hampton Inn & Suites Montgomery-EastChase
+   🕒 Arrive:  9:44 AM
+   ⌛ Stay:    10 hour(s) 0 minutes
+   🛫 Depart:  7:44 PM
+   🚗 Drive:   1 hour 1 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=32.3626357,-86.15888249
+
+📍 Temporary Location - Selma Welcome Center
+   🕒 Arrive:  8:44 PM
+   ⌛ Stay:    1 hour(s) 0 minutes
+   🛫 Depart:  9:44 PM
+   🚗 Drive:   1 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=32.407124,-87.019413
+
+📍 National Voting Rights Museum
+   🕒 Arrive:  9:45 PM
+   ⌛ Stay:    1 hour(s) 0 minutes
+   🛫 Depart:  10:45 PM
+   🚗 Drive:   5 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=32.402805,-87.017586
+
+📍 Brown Chapel AME
+   🕒 Arrive:  10:50 PM
+   ⌛ Stay:    1 hour(s) 0 minutes
+   🛫 Depart:  11:50 PM
+   🚗 Drive:   3 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=32.412773,-87.01662
+
+📍 Edmund Pettus Bridge
+   🕒 Arrive:  11:53 PM
+   ⌛ Stay:    1 hour(s) 0 minutes
+   🛫 Depart:  12:53 AM
+   🚗 Drive:   22 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=32.405556,-87.018611
+
+----------------------------------------
+>>> SATURDAY, MARCH 07 <<<
+----------------------------------------
+
+🗺️ FULL DAY ROUTE MAP: https://www.google.com/maps/dir/32.270433,-86.727729/32.365209,-86.291256/32.376104,-86.303252/32.3626357,-86.15881811/32.38219,-86.30874/32.372171,-86.313423/33.35190052,-86.84781544
+
+📍 Lowndes Interpretive Center
+   🕒 Arrive:  1:15 AM
+   ⌛ Stay:    1 hour(s) 0 minutes
+   🛫 Depart:  2:15 AM
+   🚗 Drive:   35 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=32.270433,-86.727729
+
+📍 Montgomery Interpretive Center
+   🕒 Arrive:  2:51 AM
+   ⌛ Stay:    1 hour(s) 0 minutes
+   🛫 Depart:  3:51 AM
+   🚗 Drive:   5 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=32.365209,-86.291256
+
+📍 Civil Rights Memorial Center, 400 Washington Ave, Montgomery, AL 36104
+   🕒 Arrive:  3:55 AM
+   ⌛ Stay:    1 hour(s) 0 minutes
+   🛫 Depart:  4:55 AM
+   🚗 Drive:   15 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=32.376104,-86.303252
+
+📍 HOTEL - Hampton Inn & Suites Montgomery-EastChase
+   🕒 Arrive:  5:10 AM
+   ⌛ Stay:    10 hour(s) 0 minutes
+   🛫 Depart:  3:10 PM
+   🚗 Drive:   17 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=32.3626357,-86.15881811
+
+📍 The Legacy Museum, 400 N Court St, Montgomery, AL 36104
+   🕒 Arrive:  3:27 PM
+   ⌛ Stay:    1 hour(s) 0 minutes
+   🛫 Depart:  4:27 PM
+   🚗 Drive:   4 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=32.38219,-86.30874
+
+📍 The National Memorial for Peace and Justice
+   🕒 Arrive:  4:31 PM
+   ⌛ Stay:    1 hour(s) 0 minutes
+   🛫 Depart:  5:31 PM
+   🚗 Drive:   1 hour 18 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=32.372171,-86.313423
+
+📍 HOTEL - Homewood Suites Hoover Birmingham
+   🕒 Arrive:  6:48 PM
+   ⌛ Stay:    10 hour(s) 0 minutes
+   🛫 Depart:  4:48 AM
+   🚗 Drive:   3 hrs 3 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=33.35190052,-86.84781544
+
+----------------------------------------
+>>> SUNDAY, MARCH 08 <<<
+----------------------------------------
+
 🗺️ FULL DAY ROUTE MAP: https://www.google.com/maps/dir/36.13425603,-86.67280574
 
 📍 Nashville International Airport - BNA
-   🕒 Arrive:  1:51 AM
+   🕒 Arrive:  7:51 AM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  2:51 AM
+   🛫 Depart:  8:51 AM
    🔗 Pin:      http://maps.google.com/?q=36.13425603,-86.67280574
 
