@@ -506,6 +506,7 @@
    🛫 Depart:  1:46 PM
    🚗 Drive:   3 min to next destination
    🔗 Pin:      http://maps.google.com/?q=32.377773,-86.300282
+   💬 Info:    Open 8:00am to 4:00pm
 
 📍 Dexter Parsonage Museum, 309 S Jackson St, Montgomery, AL 36104
    🕒 Arrive:  1:49 PM
@@ -513,6 +514,7 @@
    🛫 Depart:  2:49 PM
    🚗 Drive:   4 min to next destination
    🔗 Pin:      http://maps.google.com/?q=32.372991,-86.29608
+   💬 Info:    Open 10:00am to 4:00pm
 
 📍 Freedom Rides Museum, 210 S Court St, Montgomery, AL 36104
    🕒 Arrive:  2:54 PM
