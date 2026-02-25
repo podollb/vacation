@@ -42,7 +42,7 @@ def main():
     gmaps = googlemaps.Client(key=API_KEY)
     
     try:
-        df = pd.read_csv(INPUT_FILE)
+        df = pd.read_csv(INPUT_FILE, comment='#')
     except FileNotFoundError:
         print(f"❌ Error: {INPUT_FILE} not found.")
         return
