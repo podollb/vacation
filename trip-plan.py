@@ -26,13 +26,24 @@ def format_stay_string(td):
 def get_pin_link(lat, lng):
     return f"http://maps.google.com/?q={lat},{lng}"
 
+#def get_daily_route_link(stops):
+#    if not stops: return ""
+#    base_url = "https://www.google.com/maps/dir/?api=1"
+#    origin = "origin=My+Location"
+#    destination = f"destination={stops[-1]['lat']},{stops[-1]['lng']}"
+#    waypoints = quote("|".join([f"{s['lat']},{s['lng']}" for s in stops]))
+#    return f"{base_url}&{origin}&{destination}&waypoints={waypoints}&travelmode=driving"
+
 def get_daily_route_link(stops):
     if not stops: return ""
-    base_url = "https://www.google.com/maps/dir/?api=1"
-    origin = "origin=My+Location"
-    destination = f"destination={stops[-1]['lat']},{stops[-1]['lng']}"
-    waypoints = quote("|".join([f"{s['lat']},{s['lng']}" for s in stops]))
-    return f"{base_url}&{origin}&{destination}&waypoints={waypoints}&travelmode=driving"
+    # We use the /dir/ (Directions) format which is better for many stops
+    base_url = "https://www.google.com/maps/dir/"
+    
+    # Create a list of "lat,lng" strings for every stop
+    path_segments = [f"{s['lat']},{s['lng']}" for s in stops]
+    
+    # Join them with slashes: /lat,lng/lat,lng/lat,lng
+    return base_url + "/".join(path_segments)    
 
 def main():
     if not API_KEY:
