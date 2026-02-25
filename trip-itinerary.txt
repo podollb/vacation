@@ -209,9 +209,9 @@
    🛫 Depart:  6:20 PM
    🚗 Drive:   1 hour 7 min to next destination
    🔗 Pin:      http://maps.google.com/?q=32.63732,-91.40715
-   💬 Info:    Closes at 5pm
+   💬 Info:    OPTIONAL? - Closes at 5pm
 
-📍 429 Bud Smith Rd, Monroe, LA 71202
+📍 Soggy Bottom Swamp, 429 Bud Smith Rd, Monroe, LA 71202
    🕒 Arrive:  7:27 PM
    ⌛ Stay:    0 hour(s) 30 minutes
    🛫 Depart:  7:57 PM
