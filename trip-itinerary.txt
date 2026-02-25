@@ -74,6 +74,7 @@
    🛫 Depart:  1:30 PM
    🚗 Drive:   1 hour 7 min to next destination
    🔗 Pin:     http://maps.google.com/?q=33.97048,-90.369908
+   💬 Info:    Decide how to proceed depending on time!
 
 📍 Birthplace Of Kermit The Frog Museum, 415 S Deer Creek Dr E, Leland, MS 38756
    🕒 Arrive:  2:37 PM
@@ -81,6 +82,7 @@
    🛫 Depart:  3:37 PM
    🚗 Drive:   46 min to next destination
    🔗 Pin:     http://maps.google.com/?q=33.400048,-90.890578
+   💬 Info:    Closes at 4:00pm
 
 📍 Milam Plantation Seed Barn, 577 Drew Ruleville Rd, Ruleville, MS 38771
    🕒 Arrive:  4:23 PM
