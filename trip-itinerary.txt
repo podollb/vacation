@@ -416,27 +416,27 @@
 >>> THURSDAY, MARCH 05 <<<
 ----------------------------------------
 
-🗺️ FULL DAY ROUTE MAP: https://www.google.com/maps/dir/33.515789,-86.814966/33.515339,-86.814887/33.516702,-86.814948/33.520907,-86.790562/33.650903,-85.869487/33.658085,-85.831081/32.6123578,-85.40058359
+🗺️ FULL DAY ROUTE MAP: https://www.google.com/maps/dir/33.515339,-86.814887/33.515789,-86.814966/33.516702,-86.814948/33.520907,-86.790562/33.650903,-85.869487/33.658085,-85.831081/32.6123578,-85.40058359
+
+📍 Birmingham Civil Rights National Monument, 1510 5th Ave N, Birmingham, AL 35203
+   🕒 Arrive:  9:22 AM
+   ⌛ Stay:    1 hour(s) 0 minutes
+   🛫 Depart:  10:22 AM
+   🚗 Drive:   1 min to next destination
+   🔗 Pin:      http://maps.google.com/?q=33.515339,-86.814887
 
 📍 Birmingham Civil Rights Institute, 520 16th St N, Birmingham, AL 35203
-   🕒 Arrive:  9:22 AM
+   🕒 Arrive:  10:22 AM
    ⌛ Stay:    4 hour(s) 0 minutes
-   🛫 Depart:  1:22 PM
-   🚗 Drive:   1 min to next destination
+   🛫 Depart:  2:22 PM
+   🚗 Drive:   2 min to next destination
    🔗 Pin:      http://maps.google.com/?q=33.515789,-86.814966
    💬 Info:    Open from 10:00am to 5:00pm
 
-📍 Birmingham Civil Rights National Monument, 1510 5th Ave N, Birmingham, AL 35203
-   🕒 Arrive:  1:22 PM
-   ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  2:22 PM
-   🚗 Drive:   2 min to next destination
-   🔗 Pin:      http://maps.google.com/?q=33.515339,-86.814887
-
 📍 Location of where Children were bombed, 16th Street Baptist Church, 1530 6th Ave N, Birmingham, AL 35203
-   🕒 Arrive:  2:24 PM
+   🕒 Arrive:  2:23 PM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  3:24 PM
+   🛫 Depart:  3:23 PM
    🚗 Drive:   10 min to next destination
    🔗 Pin:      http://maps.google.com/?q=33.516702,-86.814948
    💬 Info:    Open from 10:00am to 3:00pm
@@ -477,9 +477,9 @@
 🗺️ FULL DAY ROUTE MAP: https://www.google.com/maps/dir/32.604078,-85.483801/32.428915,-85.708349/32.457222,-85.680134/32.377773,-86.300282/32.372991,-86.29608/32.374637,-86.309115/32.37671,-86.311408/32.3626357,-86.15888249
 
 📍 Auburn University Veterans Resource Center, 282 W Thach Ave, Auburn, AL 36849
-   🕒 Arrive:  6:21 AM
+   🕒 Arrive:  6:20 AM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  7:21 AM
+   🛫 Depart:  7:20 AM
    🚗 Drive:   29 min to next destination
    🔗 Pin:      http://maps.google.com/?q=32.604078,-85.483801
 
@@ -574,9 +574,9 @@
    🔗 Pin:      http://maps.google.com/?q=32.270433,-86.727729
 
 📍 Montgomery Interpretive Center
-   🕒 Arrive:  8:11 AM
+   🕒 Arrive:  8:10 AM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  9:11 AM
+   🛫 Depart:  9:10 AM
    🚗 Drive:   5 min to next destination
    🔗 Pin:      http://maps.google.com/?q=32.365209,-86.291256
 
