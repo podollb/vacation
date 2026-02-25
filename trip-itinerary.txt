@@ -647,8 +647,8 @@
 
 📍 HOTEL - Hampton Inn & Suites Montgomery-EastChase
    🕒 Arrive:  5:30 PM
-   ⌛ Stay:    10 hour(s) 0 minutes
-   🛫 Depart:  3:30 AM
+   ⌛ Stay:    18 hour(s) 0 minutes
+   🛫 Depart:  11:30 AM
    🚗 Drive:   17 min to next destination
    🔗 Pin:      http://maps.google.com/?q=32.3626357,-86.15881811
 
@@ -656,42 +656,48 @@
 >>> SUNDAY, MARCH 08 <<<
 ----------------------------------------
 
-🗺️ FULL DAY ROUTE MAP: https://www.google.com/maps/dir/32.38219,-86.30874/32.372171,-86.313423/32.38946914733964,-86.3135735028545/33.35190052,-86.84781544/36.13425603,-86.67280574
+🗺️ FULL DAY ROUTE MAP: https://www.google.com/maps/dir/32.38219,-86.30874/32.372171,-86.313423/32.38946914733964,-86.3135735028545/33.35190052,-86.84781544
 
 📍 The Legacy Museum, 400 N Court St, Montgomery, AL 36104
-   🕒 Arrive:  3:46 AM
+   🕒 Arrive:  11:46 AM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  4:46 AM
+   🛫 Depart:  12:46 PM
    🚗 Drive:   4 min to next destination
    🔗 Pin:      http://maps.google.com/?q=32.38219,-86.30874
    💬 Info:    NEED TICKETS FOR ALL 3 SITES - Open 9:00am to 6:00pm
 
 📍 The National Memorial for Peace and Justice (part of Legacy Museum)
-   🕒 Arrive:  4:51 AM
+   🕒 Arrive:  12:51 PM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  5:51 AM
+   🛫 Depart:  1:51 PM
    🚗 Drive:   7 min to next destination
    🔗 Pin:      http://maps.google.com/?q=32.372171,-86.313423
    💬 Info:    Open 9:00am to 5:00pm
 
 📍 Freedom Monument Park (part of Legacy Museum)
-   🕒 Arrive:  5:58 AM
+   🕒 Arrive:  1:58 PM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  6:58 AM
+   🛫 Depart:  2:58 PM
    🚗 Drive:   1 hour 16 min to next destination
    🔗 Pin:      http://maps.google.com/?q=32.38946914733964,-86.3135735028545
    💬 Info:    Open 9:00am to 5:00pm
 
 📍 HOTEL - Homewood Suites Hoover Birmingham
-   🕒 Arrive:  8:13 AM
+   🕒 Arrive:  4:13 PM
    ⌛ Stay:    10 hour(s) 0 minutes
-   🛫 Depart:  6:13 PM
+   🛫 Depart:  2:13 AM
    🚗 Drive:   3 hrs 3 min to next destination
    🔗 Pin:      http://maps.google.com/?q=33.35190052,-86.84781544
 
+----------------------------------------
+>>> MONDAY, MARCH 09 <<<
+----------------------------------------
+
+🗺️ FULL DAY ROUTE MAP: https://www.google.com/maps/dir/36.13425603,-86.67280574
+
 📍 Nashville International Airport - BNA
-   🕒 Arrive:  9:16 PM
+   🕒 Arrive:  5:16 AM
    ⌛ Stay:    1 hour(s) 0 minutes
-   🛫 Depart:  10:16 PM
+   🛫 Depart:  6:16 AM
    🔗 Pin:      http://maps.google.com/?q=36.13425603,-86.67280574
 
